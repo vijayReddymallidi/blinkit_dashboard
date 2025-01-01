@@ -18,3 +18,7 @@ Average Rating: Average customer rating for items sold (3.9 out of 5)
 * **Item Type Distribution**: Shows sales distribution across various product categories <br />
 * **Outlet Size and Location Analysis**: Provides insights on sales performance by outlet size and location tier <br />
 * **Outlet Type Comparison**: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility <br />
+
+![Blinkit dashboard page1](https://github.com/user-attachments/assets/b3289a45-727a-4d34-af5b-6b3872d9888e)
+![Blinkit dashboard page2](https://github.com/user-attachments/assets/4c940dff-98d4-41d6-9d09-cb8044ea9fe2)
+![Blinkit dashboard page3](https://github.com/user-attachments/assets/3e92bb90-ea3c-4c9e-b62e-790158e7f589)
