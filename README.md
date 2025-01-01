@@ -1,1 +1,3 @@
-# blinkit_dashboard
+BlinkIt Data Analysis Dashboard in Power BI
+****
+
